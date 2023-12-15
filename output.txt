@@ -1,4 +1,0 @@
-Output for 5-test.txt: 46
-Output for 5-test.txt: 46
-Output for 5-test.txt: 46
-Output for 5-input.txt: 99751240
